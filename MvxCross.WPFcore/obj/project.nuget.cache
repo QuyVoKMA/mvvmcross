@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3wtsF32xXQSbTpuWRdEjpCIKK1tMkPcnrKdZaFLNR/eLtLZVAEmiK6NkPxjjbavSJWSA8ugwRuK1XJ9niI2OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\84901\\source\\repos\\mvvmCross1\\MvxCross.WPFcore\\MvxCross.WPFcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\84901\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\84901\\.nuget\\packages\\mvvmcross\\8.0.1\\mvvmcross.8.0.1.nupkg.sha512",
+    "C:\\Users\\84901\\.nuget\\packages\\mvvmcross.platforms.wpf\\8.0.1\\mvvmcross.platforms.wpf.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
